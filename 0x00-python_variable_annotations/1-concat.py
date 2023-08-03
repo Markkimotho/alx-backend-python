@@ -3,6 +3,6 @@
 
 
 def concat(str1: str, str2: str) -> str:
-    """A function that returns a concatenated string
+    """A function that returns a concatenated string of two strings
     """
     return str1 + str2
