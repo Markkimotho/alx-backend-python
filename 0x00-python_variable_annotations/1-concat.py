@@ -1,4 +1,4 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 """An annotated module for concatenation of two annotated strings"""
 
 
