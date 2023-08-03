@@ -1,5 +1,5 @@
 #!usr/bin/env python3
-"""An annotated module for floor"""
+"""An annotated module getting the floor of a float"""
 
 import math
 

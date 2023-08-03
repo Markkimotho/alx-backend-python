@@ -1,5 +1,5 @@
 #!usr/bin/env python3
-"""An annotated module for string concat"""
+"""An annotated module for concatenation of two annotated strings"""
 
 
 def concat(str1: str, str2: str) -> str:
