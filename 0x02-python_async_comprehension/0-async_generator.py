@@ -3,9 +3,9 @@
 
 import asyncio
 import random
+from typing import List
 
-
-async def async_generator():
+async def async_generator() -> List[float]:
     """Coroutine than yields a 10 random numbers,
         with each being random
     """
