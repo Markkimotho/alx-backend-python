@@ -6,7 +6,7 @@ import random
 from typing import List
 
 
-async def async_generator() -> List[float]:
+async def async_generator() -> AsyncGenerator[float, None]:
     """Coroutine than yields a 10 random numbers,
         with each being random
     """
